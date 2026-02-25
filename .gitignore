@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Build outputs
+.next/
+out/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Uploads & data
+uploads/
+*.h5
+*.pt
+*.onnx
+datasets/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
